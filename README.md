@@ -3,7 +3,7 @@ Final Year Project: Lift usage Analysis Using Machine Learning and Deep Learning
 
 Project Overview
 ---------------
-This Final Year Project (FYP) implements a traffic analysis system combining machine learning and deep learning approaches. The system utilizes transfer learning with YOLOv5 for object detection and Logistic Regression for classification.
+This Final Year Project (FYP) implements a Lift usage analysis system combining machine learning and deep learning approaches to make decision of skiping the floor or open door for the floor , Mainaly to implove efficiency of Lift . The system utilizes transfer learning with YOLOv5 for object detection and Logistic Regression for classification , and decide if lift is full or not.
 
 Key Components
 -------------
